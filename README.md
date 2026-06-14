@@ -38,7 +38,7 @@ Currently learning and building projects with:
 
 - Build strong full-stack projects
 - Improve DSA & problem solving
-- Learn system design basics
+- Learn Cybersecurity basics
 - Contribute to open source
 - Land great internships
 
