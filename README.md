@@ -1,46 +1,46 @@
 # Hey there 👋 I'm Poojitha
 
-💻 Computer Science student exploring software development, backend systems, and problem-solving.
-
-Currently learning and building projects with:
-
-- 🐍 Python
-- ⚡ FastAPI
-- 🌐 Web Development
-- 🧠 Data Structures & Algorithms
-- 🔒 Exploring Web Security
-
----
-
-## 🚀 Currently Working On
-
-- Backend projects with FastAPI
-- Improving problem-solving skills
-- Building projects for my portfolio
-- Learning Git & GitHub properly 😭
+💻 Building software, exploring secure systems, and growing one project at a time.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 Interests
+
+- 🌐 Full-Stack Development
+- 🔒 Cybersecurity
+- 🤖 Artificial Intelligence
+- ⚙️ Backend Engineering
+- 🧩 Data Structures & Algorithms
 
 ---
 
 ## 📌 Goals for 2026
 
-- Build strong full-stack projects
-- Improve DSA & problem solving
-- Learn Cybersecurity basics
-- Contribute to open source
-- Land great internships
+- 🚀 Build impactful full-stack projects
+- 🔒 Develop practical cybersecurity skills
+- 🤖 Explore AI and its real-world applications
+- 🌍 Contribute to open-source projects
+- 💼 Secure software engineering or cybersecurity internships
 
 ---
 
@@ -50,4 +50,4 @@ Currently learning and building projects with:
 
 ---
 
-### 🌱 Little by little, getting better every day.
+### 🌱 Building. Breaking. Learning. Repeating.
