@@ -44,10 +44,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooji-tha11&show_icons=true)
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooji-tha11&theme=transparent&hide_border=true" />
+</p>
 ---
 
 ### 🌱 Building. Breaking. Learning. Repeating.
