@@ -33,16 +33,6 @@
 
 ---
 
-## 📌 Goals for 2026
-
-- 🚀 Build impactful full-stack projects
-- 🔒 Develop practical cybersecurity skills
-- 🤖 Explore AI and its real-world applications
-- 🌍 Contribute to open-source projects
-- 💼 Secure software engineering or cybersecurity internships
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
